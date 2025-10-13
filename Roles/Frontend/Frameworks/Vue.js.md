@@ -1,0 +1,4 @@
+- Watch vs watchEffect
+- Pinia vs Vuex: импорт и архитектура
+- Передача данных между компонентами
+- Nuxt.js

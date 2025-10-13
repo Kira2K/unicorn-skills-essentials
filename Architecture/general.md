@@ -1,0 +1,6 @@
+- SOLID
+- GRASP
+- KISS
+- DRY
+- Fabric
+- Singelon

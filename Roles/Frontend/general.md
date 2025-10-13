@@ -1,0 +1,4 @@
+- FSD
+- CRP: 1
+- Web vitals: 1
+- SSR, CSR, SSG

@@ -1,0 +1,6 @@
+- Redux
+- Redux Toolkit
+- Next.js
+- React query
+- Router
+- React query

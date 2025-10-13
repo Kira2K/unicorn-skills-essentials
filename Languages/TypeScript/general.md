@@ -1,0 +1,10 @@
+- Utility types
+- Generic types
+- Pick vs Omit
+- Type casting (as)
+- Type Guards
+- Type vs Interface
+- Enum vs Interface vs const
+- unknown vs any vs never
+- extends and implements
+- Abstract class

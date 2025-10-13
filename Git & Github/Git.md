@@ -1,0 +1,4 @@
+- Cherry pick
+- Merge
+- Rebase
+- Что лучше из этих двух?

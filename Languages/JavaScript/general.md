@@ -1,0 +1,12 @@
+- Let vs Const vs var
+- Область видимости (deadzone)
+- Контекст функции
+- Стрелочные 
+- Асинхронность
+- Прототип
+- == vs ===
+- Сравнение объектов
+- Безопасное копирование объектов: StructredClone
+- Ивентлуп
+- Bind, call, apply
+- ServiceWorker vs WebWorker

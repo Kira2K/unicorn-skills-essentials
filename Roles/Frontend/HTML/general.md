@@ -1,0 +1,3 @@
+- Img downloading optimisation
+- SEO-tags
+- Div vs span

@@ -1,3 +1,7 @@
 - Sass
 - Flex
 - Position
+- BEM
+- variables
+- break-points
+- mobile-first

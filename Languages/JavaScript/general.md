@@ -10,3 +10,4 @@
 - Ивентлуп
 - Bind, call, apply
 - ServiceWorker vs WebWorker
+- Как избежать утечек памяти в JS?

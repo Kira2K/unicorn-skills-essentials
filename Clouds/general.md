@@ -18,7 +18,7 @@
 - Обучение и сертификация - [https://aws.amazon.com/ru/training/](https://aws.amazon.com/ru/training/)
 - Курс AWS - [https://www.udemy.com/course/russian-aws/](https://www.udemy.com/course/russian-aws/)
 - Stephan Maarek на Udemy
-
+- Some more of AWS for backend developers by Simon E - [https://github.com/esemi/evil-uni-public/blob/master/python-backend-one-day](https://github.com/esemi/evil-uni-public/blob/master/python-backend-one-day.md#aws--%D0%BC%D0%B8%D0%BD%D0%B8%D0%BC%D1%83%D0%BC-%D0%B4%D0%BB%D1%8F-python-backend)
 </details>
 
 <details>

@@ -52,6 +52,8 @@
 - OpenVPN
 - WireGuard
 - systemd
+- sysctl
+- conntrack
 - VMware vSphere
 - Proxmox
 - Hyper-V

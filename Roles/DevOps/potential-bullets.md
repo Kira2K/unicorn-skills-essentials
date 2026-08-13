@@ -85,5 +85,7 @@
 ### Performance / capacity / autoscaling / rightsizing
 
 - resource optimization at 6,000 RPS.
+- Tuned Linux kernel parameters via sysctl for high-load workloads.
+- Tuned conntrack parameters for high-load networking.
 - capacity planning + p99≤5 ms.
 - latency −30% at 10k RPS.
